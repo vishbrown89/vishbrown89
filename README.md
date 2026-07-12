@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Vishnu Ramanathan
-- 👀 I’m interested in outdoor activities
-- 🌱 I’m currently learning AI integration in Project Management
-- 💞️ I’m looking to collaborate on event management activities
+  
 - 📫 You may reach me at https://www.linkedin.com/in/vishnu-ramanathan/
   
 
